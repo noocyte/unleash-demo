@@ -1,0 +1,16 @@
+C:\repo\noocyte\unleash-demo\client\bin\Debug\net5.0\client.exe
+C:\repo\noocyte\unleash-demo\client\bin\Debug\net5.0\client.deps.json
+C:\repo\noocyte\unleash-demo\client\bin\Debug\net5.0\client.runtimeconfig.json
+C:\repo\noocyte\unleash-demo\client\bin\Debug\net5.0\client.runtimeconfig.dev.json
+C:\repo\noocyte\unleash-demo\client\bin\Debug\net5.0\client.dll
+C:\repo\noocyte\unleash-demo\client\bin\Debug\net5.0\ref\client.dll
+C:\repo\noocyte\unleash-demo\client\bin\Debug\net5.0\client.pdb
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.AssemblyInfoInputs.cache
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.AssemblyInfo.cs
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.csproj.CoreCompileInputs.cache
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.dll
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\ref\client.dll
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.pdb
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.genruntimeconfig.cache
+C:\repo\noocyte\unleash-demo\client\obj\Debug\net5.0\client.csprojAssemblyReference.cache
